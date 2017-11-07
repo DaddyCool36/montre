@@ -1,0 +1,14 @@
+body {
+	background-color: rgb(240, 240, 240);
+}
+
+#afficheur7Segments {
+	width: 400px;
+	position: absolute;
+	top: 300px;
+	left: 300px;
+}
+
+#conteneur {
+	margin: auto;
+}
